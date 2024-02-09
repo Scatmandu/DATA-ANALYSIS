@@ -1,0 +1,3 @@
+Technology = 467.8589387713244
+Furniture = 416.2489050526529
+Office Supplies = 121.0971197358744

@@ -1,0 +1,3 @@
+1) Ran explore_dataset.py on my dataset, Global_Superstore.csv
+2) After looking at the output, I saw that the Postal_Code column was missing over 4/5 of its values, warranting its exclusion from analysis
+3) After adding logic to explore_dataset.py to ignore Postal_Code
